@@ -4,7 +4,7 @@
 
 title: my Github Site
 
-url: "http://0.0.0.0:4000/my-site/"
+url: "http://0.0.0.0:4000/my-site"
 
-baseurl: "my-site/"
+baseurl: "/my-site"
 permalink: pretty
