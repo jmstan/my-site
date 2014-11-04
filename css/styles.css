@@ -2,6 +2,7 @@ ul li{
 	text-decoration: none;
 	list-style: none;
 	float:left;
+	margin-left: 25px;
 }
 
 nav ul a{
