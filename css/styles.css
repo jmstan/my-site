@@ -37,22 +37,5 @@ margin: 25px auto 0px;
       margin: 0 auto;
    }
 
-   img{
-      position: absolute;
-      left: 129px;
-      margin-bottom: 10px;
-   }
 
-   .nav-left{
-      width: 256px;
-      float: left;
-      margin-top: 200px;
-      margin-left: 135px;
-         }
-
-   .nav-right{
-      clear: both;
-      margin-top: -40px;
-      margin-left: 134px;
-   }
 }
