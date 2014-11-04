@@ -1,6 +1,6 @@
 
 ul{
-	display: inline-flex;
+	display: inline-block;
 }
 
 ul li a{
