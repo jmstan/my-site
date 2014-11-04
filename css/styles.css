@@ -1,7 +1,7 @@
 ul li{
 	
 	float:left;
-	margin: 25px 0px 0px 25px;
+	margin: 50px 0px 0px 25px;
 	 list-style: none;
 }
 
@@ -18,9 +18,9 @@ nav ul a{
 
 .top{
    overflow: hidden;
-width: 1200px;
-max-width: 1200px;
-margin: 0 auto;
+width: 1100px;
+max-width: 1100px;
+margin: 25px auto 0px;
 }
 
 
