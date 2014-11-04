@@ -3,3 +3,10 @@ ul li{
 	list-style: none;
 	float:left;
 }
+
+nav ul a{
+   font-family: font-family: "adelle-sans"; 
+   font-size: 18px;
+   font-weight: 300;
+   letter-spacing: 1px;
+}
