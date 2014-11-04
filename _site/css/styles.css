@@ -7,13 +7,13 @@ ul{
 ul li{
 	
 	float:left;
-	margin: 50px 0px 0px 40px;
+	margin: 50px 0px 0px 37px;
 	 list-style: none;
 }
 
 nav ul a{
    font-family:"adelle-sans"; 
-   font-size: 28px;
+   font-size: 22px;
    font-weight: 300;
    letter-spacing: 1px;
    color: black;
