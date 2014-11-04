@@ -1,9 +1,7 @@
 
-ul{
-	display: inline-block;
-}
 
-ul li a{
+ul li {
 	text-decoration: none;
 	list-style: none;
+    float:left;
 }
