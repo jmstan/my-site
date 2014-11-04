@@ -30,3 +30,10 @@ margin: 25px auto 0px;
 }
 
 
+
+@media screen (max-width:767px){
+   ul li{
+      float:none;
+      margin: 0 auto;
+   }
+}
