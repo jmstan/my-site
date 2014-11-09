@@ -34,7 +34,7 @@ margin: 25px 40px;
 
 
 .main-image{
-   background: url('../assets/79f023f1.jpg');
+   background: url('assets/79f023f1.jpg');
 }
 
 @media screen and (max-width:767px){
