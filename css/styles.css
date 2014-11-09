@@ -32,6 +32,11 @@ margin: 25px 40px;
    float:left;
 }
 
+
+.main-image{
+   background: url('{{site.url}}/assets/79f023f1.jpg');
+}
+
 @media screen and (max-width:767px){
    ul li{
       float:none;
