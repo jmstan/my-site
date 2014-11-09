@@ -24,12 +24,13 @@ nav ul a{
 
 .top{
    overflow: hidden;
-width: 1100px;
-max-width: 1100px;
-margin: 25px auto 0px;
+margin: 25px 40px;
 }
 
 
+.logo{
+   float:left;
+}
 
 @media screen and (max-width:767px){
    ul li{
