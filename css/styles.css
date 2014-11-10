@@ -33,8 +33,9 @@ margin: 25px 40px;
 }
 
 
-body{
-   background: url('../assets/79f023f1.jpeg');
+.top{
+   background: url('../assets/sunset.jpg');
+
 }
 
 @media screen and (max-width:767px){
