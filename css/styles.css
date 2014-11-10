@@ -48,7 +48,11 @@ table {
    border-spacing: 0;
 }
 
-/*---------- End Reset----------*/ 
+/*---------- End Reset----------*/
+
+.wrapper{
+  overflow:hidden;
+} 
 
 ul{
    overflow: hidden;
