@@ -91,6 +91,7 @@
 		
 		.wrapper {
 			display: block;
+			overflow: hidden;
 		}
 		
 		/* IE 7 only styles */
