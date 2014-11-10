@@ -87,6 +87,7 @@
 		.section {
 			margin-bottom: 4em;
 			padding-top: 1em;
+			overflow:hidden;
 		}
 		
 		.wrapper {
