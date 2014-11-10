@@ -87,6 +87,9 @@ nav ul a{
 
 .top{
    background: url('../assets/sunset1.jpg');
+   background-position: center;
+   background-repeat: no-repeat;
+   
 
 }
 
