@@ -87,7 +87,9 @@ nav ul a{
 
 .logo{
   font-family: "merriweather";
-  
+  float: left;
+  margin-top: 30px;
+  margin-left: 35px;
 }
 
 
