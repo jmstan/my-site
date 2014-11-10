@@ -106,6 +106,13 @@ color: black;
 letter-spacing: 1.5px;
 }
 
+
+
+h2 {
+  font-family: "merriweather";
+  font-size: 24px;
+  }
+
 @media screen and (max-width:767px){
    ul li{
       float:none;
