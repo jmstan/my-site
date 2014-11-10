@@ -101,13 +101,13 @@ nav ul a{
 }
 
 
-/*.top{
+.top{
    background: url('../assets/sunset1.jpg');
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
    height: 550px;
-}*/
+}
 
 h1{
 text-align: center;
