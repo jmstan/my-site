@@ -4,9 +4,9 @@
 
 title: my Github Site
 
-url: "http://jmstan.github.io/my-site"
+url: "http://jmstan.github.io/my-site/"
 
-baseurl: "/my-site"
+baseurl: "my-site"
 permalink: pretty
 
 
