@@ -64,7 +64,11 @@ main {
 /*.bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')};  */
 
 
-.bcg {background:url('{{site.url}}assets/sunset1.jpg'};
+.bcg {
+background:url('{{site.url}}assets/sunset1.jpg');
+}
+
+		
 
 
 
