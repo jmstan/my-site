@@ -1,3 +1,7 @@
+---
+
+---
+
 /*hr {
     display: block;
     height: 1px;
@@ -66,8 +70,8 @@ main {
 
 .bcg {
 
-/*background-image:url('{{site.url}}assets/sunset1.jpg'); */
-background-image:url('my-site/assets/sunset1.jpg');
+background-image:url('{{site.url}}assets/sunset1.jpg'); */
+/*background-image:url('my-site/assets/sunset1.jpg');  */
 height:500px;
 border:1px solid black;
 }
