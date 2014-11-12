@@ -62,6 +62,7 @@ main {
 
 /*#slide-4 .bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')} */
 .bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')};
+.bcg {background:url('{{site.url}}/assets/sunset1.jpg')};
 .curtainContainer {
 	background: url('{{site.url}}assets/sunset.jpg');
 }
