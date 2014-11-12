@@ -61,8 +61,10 @@ main {
 .curtainContainer .copy {position: absolute; bottom: 30%; left: 0; width: 100%; text-align: center;}
 
 /*#slide-4 .bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')} */
-.bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')} 
-
+.bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')};
+.curtainContainer {
+	background: url('{{site.url}}assets/sunset.jpg');
+}
 
 
 .hsContainer {
@@ -81,7 +83,7 @@ main {
 	vertical-align: middle;
 	color: #ebebeb;
 	padding: 0 8%;
-	text-align: center
+	text-align: center;
 }
 	.hsContent h2,
 	.copy h2 {
