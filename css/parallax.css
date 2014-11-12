@@ -60,7 +60,8 @@ main {
 .curtainContainer .curtain {width: 300%; height: 1px; background-color: #000000; position: absolute; top: 25%; left: 0; opacity: 0}
 .curtainContainer .copy {position: absolute; bottom: 30%; left: 0; width: 100%; text-align: center;}
 
-#slide-4 .bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')}
+/*#slide-4 .bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')} */
+.bcg {background-image:url('jmstan.github.io/my-site/assets/bcg_slide-4.jpg')} 
 
 
 
