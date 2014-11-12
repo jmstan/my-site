@@ -70,10 +70,10 @@ main {
 
 .bcg {
 
-background-image:url('{{site.url}}assets/sunset1.jpg'); */
-/*background-image:url('my-site/assets/sunset1.jpg');  */
-height:500px;
+background-image:url('{{site.url}}assets/sunset1.jpg'); 
 border:1px solid black;
+height: 500px;
+
 }
 
 		
