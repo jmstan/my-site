@@ -9,6 +9,9 @@ url: "http://jmstan.github.io/my-site/"
 baseurl: "my-site"
 permalink: pretty
 
+gems:
+-jemoji
+
 
 prose:
   siteurl: "http://jmstan.github.io/my-site" 
