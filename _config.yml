@@ -11,6 +11,17 @@ permalink: pretty
 
 gems:
 -jemoji
+-jekyll-sitemap
+
+sitemap:
+      file: "/sitemap.xml"
+      exclude:
+          - "/im.html"
+      include_posts:
+          - "/index.html"
+      change_frequency_name: "change_frequency"
+      priority_name: "priority"
+
 
 
 prose:
