@@ -5,13 +5,15 @@
 title: my Github Site
 
 url: "http://jmstan.github.io/my-site/"
-
-baseurl: "my-site"
-permalink: pretty
+#url: "http://127.0.0.1:4000/my-site/"
 
 gems:
--jemoji
--jekyll-sitemap
+- jemoji
+- jekyll-sitemap
+
+baseurl: "/my-site"
+permalink: pretty
+encoding: UTF-8
 
 sitemap:
     file: "/sitemap.xml"
@@ -19,7 +21,6 @@ sitemap:
         - "/index.html"
     change_frequency_name: "change_frequency"
     priority_name: "priority"
-
 
 
 prose:
