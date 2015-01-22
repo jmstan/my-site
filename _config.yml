@@ -4,8 +4,8 @@
 
 title: my Github Site
 
-url: "http://jmstan.github.io/my-site/"
-#url: "http://127.0.0.1:4000/my-site/"
+#url: "http://jmstan.github.io/my-site/"
+url: "http://127.0.0.1:4000/my-site/"
 
 gems:
 - jemoji
